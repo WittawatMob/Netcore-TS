@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXeaH4tfucCRcM5qHcEvHHZ1sTJ21q9bDyNN5qqXCfFX8jPlL3g+zFYOm6J+QS/YIxd/ueAO50lwSDHZlnBeGg==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\TS\\TSProject\\TSProject\\TSProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rwittawat\\.nuget\\packages\\microsoft.typescript.msbuild\\3.9.2\\microsoft.typescript.msbuild.3.9.2.nupkg.sha512",
+    "C:\\Users\\rwittawat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
